@@ -1,0 +1,13 @@
+[package]
+name = "xmars"
+version = "1.0.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "XMars's first crate"
+homepage = "https://github.com/xmars4/rust-crate"
+documentation = "https://github.com/xmars4/rust-crate"
+repository = "https://github.com/xmars4/rust-crate"
+readme = "README.md"
+
+
+[dependencies]
